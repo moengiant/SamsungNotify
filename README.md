@@ -24,6 +24,6 @@ How to use:
 2) Add a notification to a device in Domoticz
 3) In Domoticz settings -> notifications change the URL/Action field under the Custom HTTP/Actions settings to the following: script://scripts\python\Samsung_notify.pyw #MESSAGE (this path works on Windows 10 - paths for other operating systems may be different)
 
-The script is well documented in the script's comments so take a look at the comments if your not sure about sttings or what the script is doing. 
+The script is well documented in the script's comments so take a look at the comments if you are not sure about settings or what the script is doing. 
 
 Enjoy
