@@ -23,7 +23,7 @@ req = requests.get(URL_DOMOTICZ + 'json.htm?type=command&param=addlogmessage&mes
 
 # Turns the notification into an mp3 file and saves it to the www/media/directory as notification.mp3
 ##################################################################################################################
-# Grap the message being passed
+# Grabs the message being passed
 message = sys.argv[1] 
 # message = "You wait a certain amount of time after each check, and then read the file when the path exists. The script can be stopped with the KeyboardInterruption exception if the file is never created. You should also check if the path is a file after, to avoid some unwanted exceptions."
 
